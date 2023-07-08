@@ -8,7 +8,7 @@ public class Scan1 {
         System.out.println(4.5-2.7);
         System.out.format("I have %d cats, %d dogs, and 1 %s.", 7, 2, "panther");
 
-        /*Scanner scanner = new Scanner(System.in);
+       Scanner scanner = new Scanner(System.in);
 
         System.out.println("What is your name?");
         String userName = scanner.next();
@@ -20,6 +20,6 @@ public class Scan1 {
 
         System.out.println("\nHow tall are you in meters?");
         double userHeight = scanner.nextDouble();
-        System.out.println("You are " + userHeight + " meters tall.");*/
+        System.out.println("You are " + userHeight + " meters tall.");
     }
 }
